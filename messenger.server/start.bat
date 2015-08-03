@@ -1,0 +1,1 @@
+java -jar "target/messenger.server-0.0.1-SNAPSHOT.jar"
